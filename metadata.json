@@ -1,0 +1,33 @@
+{
+  "name": "MDDERN SAMURAI TOKEN ",
+  "symbol": "MST",
+  "description": "Modern Samurai Token – Honor Forged in Code\n\nIn the neon-lit streets of Neo-Tokyo 2187, where quantum processors hum beneath ancient cherry blossoms, the Modern Samurai rise. These cyber-warriors blend the timeless code of Bushido with cutting-edge technology, wielding plasma katanas alongside neural interfaces.\n\nThe Modern Samurai Token (MST) represents membership in this elite brotherhood of digital ronin. Each token bearer gains access to:\n\n**The Dojo Network** - A decentralized training ground where ancient martial arts meet AI-enhanced combat simulations\n**Quantum Blade Arsenal** - Exclusive access to upgradeable NFT weapons powered by blockchain technology\n**Cyber-Sensei Guidance** - AI mentors that combine centuries of samurai wisdom with predictive algorithms\n**Honor Protocol** - A reputation system that rewards loyalty, skill, and adherence to the digital Bushido code\n\nLore: When the Great Digital Collapse of 2156 shattered the old world's networks, a group of elite warriors emerged from the chaos. They were the descendants of ancient samurai families who had secretly preserved their traditions while mastering quantum computing and bio-enhancement technologies. These Modern Samurai swore an oath to protect the innocent in cyberspace, their plasma-forged blades cutting through malicious code as easily as they slice through corrupted data streams.\n\nEach MST token is inscribed with a fragment of the Digital Bushido Code, granting its holder not just membership, but a sacred duty to uphold honor in the lawless frontier of Web3. The token itself pulses with bioluminescent energy, a reminder that true strength comes from the harmony between ancient wisdom and future innovation.\n\nJoin the Modern Samurai. Forge your destiny in the blockchain. Honor the code.",
+  "image": "https://ipfs.erebrus.io/ipfs/bafybeifna4yjmmfjh3teysu6zqyvvasr4eiqos5vpkc7lb4f3dhpyicxmy",
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility" },
+    { "trait_type": "Decimals", "value": "9" },
+    { "trait_type": "Launchpad", "value": "CyreneAI" },
+    { "trait_type": "Era", "value": "Neo-Tokyo 2187" },
+    { "trait_type": "Warrior Class", "value": "Digital Ronin" },
+    { "trait_type": "Primary Weapon", "value": "Plasma Katana" },
+    { "trait_type": "Enhancement", "value": "Neural Interface" },
+    { "trait_type": "Code", "value": "Digital Bushido" },
+    { "trait_type": "Network", "value": "Quantum Blockchain" },
+    {
+      "trait_type": "Contract Address",
+      "value": "GmFnKVyafEdTeagkQ4pY59gC1fhUuM5TUnYkfcbKMndf"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.erebrus.io/ipfs/bafybeifna4yjmmfjh3teysu6zqyvvasr4eiqos5vpkc7lb4f3dhpyicxmy",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      { "address": "CvBMs2LEp8KbfCvPNMawR5cFyQ1k9ac7xrtCoxu1Y2gH", "share": 100 }
+    ]
+  }
+}
